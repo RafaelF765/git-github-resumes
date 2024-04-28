@@ -14,7 +14,21 @@ em parceria com a [Digital Inovation One](https://www.dio.me/).Onde acabei sendo
 **Elidiana Andrade**
 <sub>Expert Dio<sub>
 
+##  Bloco 01 Visão Geral do Curso:
+
 | Aulas | Descrição |
 | ------ | --------- |
 |Aula 01| Introdução ao Curso|
+| Aula 02| O que é Versionamento de Código|
+| Aula 03| O que é Git|
+|Aula 04| O que é GitHub|
 
+## Bloco 02 Instalção, Configuração e Autenticação:
+
+| Aulas | Descrição |
+| ------ | --------- |
+|Aula 01| Instalando o Git no Windows|
+| Aula 02| Instalando o Git no Linux(Ubuntu)|
+| Aula 03| Configurando o Git|
+|Aula 04| Autenticando via Token|
+|Aula 05| Autenticando via Chave SSh|
