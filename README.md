@@ -1,8 +1,7 @@
 # Resumos Git e GitHub 📝
 
 Esse repositório é para os resumos do curso [SantanderOpenAcademy](https://app.santanderopenacademy.com/en/program/santander-bootcamp-2024) 
-em parceria com a [Digital Inovation One](https://www.dio.me/).
-onde acabei sendo um dos selecionados e me deixou muito empolgado para fazer esse curso como nenhum outro.
+em parceria com a [Digital Inovation One](https://www.dio.me/).Onde acabei sendo um dos selecionados e me deixou muito empolgado para fazer esse curso como nenhum outro.
 
 
 ## Documentações Fontes de Pesquisa 📚:
@@ -11,4 +10,11 @@ onde acabei sendo um dos selecionados e me deixou muito empolgado para fazer ess
 
 
 ## Resumos das Aulas 💻:
+
+**Elidiana Andrade**
+<sub>Expert Dio<sub>
+
+| Aulas | Descrição |
+| ------ | --------- |
+|Aula 01| Introdução ao Curso|
 
