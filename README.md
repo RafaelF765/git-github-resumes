@@ -32,3 +32,11 @@ em parceria com a [Digital Inovation One](https://www.dio.me/).Onde acabei sendo
 | Aula 03| Configurando o Git|
 |Aula 04| Autenticando via Token|
 |Aula 05| Autenticando via Chave SSh|
+
+## Bloco 03 Primeiros Passos com Git e GitHub
+|Aulas|Descrição|
+|-----|-----------------|
+|Aula 01| Criando e Clonando Repositório|
+|Aula 02| Salvando Alterações no Repositório Local|
+|Aula 03| Desfazendo Alterações no Repositório Local|
+|Aula 04| Enviando e Baixando Alterações com o Repositório Remoto|
